@@ -1,0 +1,4 @@
+#Thu Oct 27 15:46:17 CST 2022
+base.0=/Users/allengu/Desktop/water_ripple/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
